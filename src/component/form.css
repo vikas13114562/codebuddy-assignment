@@ -1,0 +1,18 @@
+.dfc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dc {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.main-container{
+    padding: 20px;
+}
+.error {
+    font-size: 14px;
+    color: red;
+}
